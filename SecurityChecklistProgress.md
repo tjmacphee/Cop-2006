@@ -15,7 +15,7 @@
   - **Bonus**: unzipped project (easier git cloning)
 
 
-## In Progress:
+# In Progress:
 
 ## Issue 3: Add License
 ## Issue 4: Add std unit testing with JUnit
