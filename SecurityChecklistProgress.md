@@ -17,13 +17,13 @@
 # In Progress:
 
 ## Issue 3: Add License (HIGH | EASY)
-  - TODO: add an MIT license to project (needs to added to readme)
+  - TODO: add an MIT license to project (needs to added to readme).
 
 ## Issue 4: Add std unit testing with JUnit (HIGH | MODERATE)
   - Install JUnit & transform main() into a class so JUnit can generate tests for it.
 
 ## Issue 5: Accounting - log errors (MED | MODERATE)
-  - Create a txt file, catch errors & write them to the file
+  - Create a txt file, catch errors & write them to the file.
 
 ## Issue 6: Invest in/Improve backup policy (LOW | EASY)
-  - Upload project(s) to backup harddrive, and even make a second github account with forked repos.
+  - Upload project(s) to backup harddrive, and even make a second github account with forked repos + start doing _releases_ with github.
