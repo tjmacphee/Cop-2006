@@ -1,7 +1,6 @@
 # This file details the progress of the security issues with this project
 
-# Complete
-
+# Complete:
 ## Issue 1: Physical computer security
   - Updated windows to latest security update
   - Purchases & installed Surfshark VPN + Antivirus (img shown below)
