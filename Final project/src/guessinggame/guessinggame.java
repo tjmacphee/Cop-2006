@@ -1,3 +1,4 @@
+package guessinggame;
 // This class handles all game logic
 
 import java.util.Random;

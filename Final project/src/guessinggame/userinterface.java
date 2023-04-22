@@ -1,3 +1,4 @@
+package guessinggame;
 // This class handles all user interaction
 import java.util.Scanner;
 

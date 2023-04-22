@@ -1,4 +1,5 @@
 // This is the main class that runs the game
+package guessinggame;
 import java.io.IOException;
 
 public class Main {

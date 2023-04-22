@@ -1,3 +1,4 @@
+package guessinggame;
 // This is the filehandler class, which handles all file operations
 import java.io.FileWriter;
 import java.io.IOException;
