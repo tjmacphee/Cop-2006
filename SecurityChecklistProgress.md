@@ -13,14 +13,13 @@
   - I've added a try{} block around scan() to ensure data leak is cleaned up when finished.
   - **Bonus**: I unzipped the project so it's easier to clone & fork.
 
-
-# In Progress:
-
-## Issue 3: Add License (HIGH | EASY)
+## Issue 3: Add License 
   - TODO: add an MIT license to project (needs to added to readme).
 
 ## Issue 4: Add std unit testing with JUnit (HIGH | MODERATE)
   - Install JUnit & transform main() into a class so JUnit can generate tests for it.
+
+# In Progress:
 
 ## Issue 5: Accounting - log errors (MED | MODERATE)
   - Create a txt file, catch errors & write them to the file.
